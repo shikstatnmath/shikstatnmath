@@ -58,7 +58,7 @@
 
 - 📧 Email: `clg.oishiksamanta@gmail.com`  
 - 🧠 GitHub: [github.com/shikstatnmath](https://github.com/shikstatnmath)  
-- 🌐 [Portfolio (optional)](https://yourusername.github.io)  
+- 🌐 Instagram: [@tfc.oishik](https://instagram.com/tfc.oishik)  
 
 ---
 
