@@ -56,8 +56,8 @@
 
 ### 📬 Reach Me
 
-- 📧 Email: `your.email@gmail.com`  
-- 🧠 GitHub: [github.com/yourusername](https://github.com/yourusername)  
+- 📧 Email: `clg.oishiksamanta@gmail.com`  
+- 🧠 GitHub: [github.com/shikstatnmath](https://github.com/shikstatnmath)  
 - 🌐 [Portfolio (optional)](https://yourusername.github.io)  
 
 ---
