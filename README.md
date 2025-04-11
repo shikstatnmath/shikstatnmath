@@ -32,11 +32,11 @@
 
 | 📁 Project | 🔍 Description | 🧰 Stack |
 |-----------|----------------|----------|
-| [Olympiad Math Vault](https://github.com/yourusername/olympiad-vault) | Problem sets + detailed walkthroughs for olympiad-level thinking | Markdown, LaTeX |
-| [Age Calculator](https://github.com/yourusername/age-calc) | Simple Python utility to calculate age in real time | Python |
-| [IPL Data Analysis](https://github.com/yourusername/ipl-eda) | Exploratory Data Analysis project on IPL dataset | Pandas, Matplotlib |
-| [Smart City Blueprint](https://github.com/yourusername/smartcity-model) | Urban planning model using data and decentralization ideas | Jupyter, Markdown |
-| [Learning-Math](https://github.com/yourusername/learning-math) | My study notes on foundational math for DS/AI | Markdown, LaTeX |
+| [Olympiad Math Vault](https://github.com/shikstatnmath/olympiad-vault) | Problem sets + detailed walkthroughs for olympiad-level thinking | Markdown, LaTeX |
+| [Age Calculator](https://github.com/shikstatnmath/age-calc) | Simple Python utility to calculate age in real time | Python |
+| [IPL Data Analysis](https://github.com/shikstatnmath/ipl-eda) | Exploratory Data Analysis project on IPL dataset | Pandas, Matplotlib |
+| [Smart City Blueprint](https://github.com/shikstatnmath/smartcity-model) | Urban planning model using data and decentralization ideas | Jupyter, Markdown |
+| [Learning-Math](https://github.com/shikstatnmath/learning-math) | My study notes on foundational math for DS/AI | Markdown, LaTeX |
 
 ---
 
