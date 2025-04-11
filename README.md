@@ -13,6 +13,9 @@
 - 🧮 Currently learning **Linear Algebra**, **Probability**, **Python**, and **Machine Learning**.
 - 🧠 Exploring **quantitative finance**, **urban data modeling**, and **algorithmic thinking**.
 - 📚 Studying like a man on a mission — solving problems, building projects, and learning in public.
+- 💭 Also deeply interested in **chess**, **piano**, **algo-trading**, **philosophy**, and **learning how the world works**.
+- 📚 I even started a **book blog on Instagram** a while ago to share what I read — don’t post anymore, but the account still lives.
+
 
 ---
 
